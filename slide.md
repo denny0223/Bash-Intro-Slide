@@ -1,6 +1,6 @@
 %title: Shell Script 從入門到實務
 %author: Denny Huang
-%date: 2016-11-15
+%date: 2017-06-16
 
 
 -> Shell Script 從入門到實務 <-
@@ -8,7 +8,7 @@
 
 
 -> Denny Huang <-
--> 2016/11/15 <-
+-> 2017/06/16 <-
 
 ---
 
