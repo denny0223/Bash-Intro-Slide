@@ -432,6 +432,12 @@ while read line; do sed -i "/${line}/d" tmpf; done < tmp
 
 ---
 
+-> #  Resources (cont. <-
+
+- [Writing a Unix Shell - Part I](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+
+---
+
 ->                                  <-
 ->                                  <-
 ->                                  <-
