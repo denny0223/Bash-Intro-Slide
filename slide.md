@@ -378,7 +378,7 @@ STDERR - screen
 
 -> #  sed tricky <-
 
-- sehll variable in sed
+- shell variable in sed
 while read line; do sed -i "/${line}/d" tmpf; done < tmp
 
 ---
